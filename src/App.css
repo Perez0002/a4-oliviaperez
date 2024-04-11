@@ -1,0 +1,11 @@
+#root {
+  margin: 0 auto;
+  padding: 1em;
+  text-align: left;
+}
+
+.submit {
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+}

@@ -1,0 +1,37 @@
+/*fonts*/
+.noto-sans soyombo-regular {
+  font-family: "Noto Sans Soyombo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.mandali-regular {
+  font-family: "Mandali", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root {
+  /*font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;*/
+  font-weight: 400;
+  font-family: "Noto Sans Soyombo", sans-serif;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+}
+
+h1 {
+  line-height: .1;
+}
+h3 {
+  color: #183b63;
+  font-family: "Mandali", sans-serif;
+}
+
+#submitBtn {
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+}
